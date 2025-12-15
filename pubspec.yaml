@@ -1,0 +1,44 @@
+name: pickfolder_player
+description: A video player app with folder selection, shuffle, and autoplay features.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Video player
+  video_player: ^2.9.0
+
+  # File picker for folder selection
+  file_picker: ^8.1.2
+
+  # Path operations
+  path: ^1.9.0
+
+  # Shared preferences for saving settings
+  shared_preferences: ^2.3.2
+
+  # Permission handler
+  permission_handler: ^11.3.0
+
+  # UI components
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#1976D2"
+  adaptive_icon_foreground: "assets/icon_foreground.png"
