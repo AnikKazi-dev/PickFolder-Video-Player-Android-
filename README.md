@@ -1,51 +1,51 @@
-# PickFolder Player 🎥
+# PickFolder Player
 
 A privacy-focused Flutter video player app for Android with **specific folder selection** - the most secure way to manage your video library!
 
-## 🔒 Why PickFolder Player?
+## Why PickFolder Player?
 
 **Most video players force you to grant access to ALL your files and folders!**
 
 Unlike traditional video players that require complete storage access (potentially exposing all your private files), **PickFolder Player** uses Android's Storage Access Framework (SAF) to let you:
 
-✅ **Select ONLY specific folders** you want to play videos from  
-✅ **Keep your privacy intact** - No access to your documents, photos, or other folders  
-✅ **Better security** - The app can only see what you explicitly allow  
-✅ **No broad storage permissions** - Works with Android's modern scoped storage
+- **Select ONLY specific folders** you want to play videos from  
+- **Keep your privacy intact** - No access to your documents, photos, or other folders  
+- **Better security** - The app can only see what you explicitly allow  
+- **No broad storage permissions** - Works with Android's modern scoped storage
 
 **This is the ONLY video player that prioritizes your privacy by requesting access to specific folders only!**
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 **Secure Folder Selection**: Select specific folders using Android's built-in folder picker
-- 🔀 **Shuffle Mode**: Randomize video playback order with one tap
-- ▶️ **Autoplay**: Automatically play the next video in the queue
-- 🎥 **Full-Featured Player**: Professional video player with:
+- **Secure Folder Selection**: Select specific folders using Android's built-in folder picker
+- **Shuffle Mode**: Randomize video playback order with one tap
+- **Autoplay**: Automatically play the next video in the queue
+- **Full-Featured Player**: Professional video player with:
   - Play/Pause controls
   - Seek bar with scrubbing
   - Previous/Next video navigation
   - Time display
   - Tap to show/hide controls
-- 💾 **Persistent Settings**: Remembers your folder selection, shuffle, and autoplay preferences
-- 🎨 **Modern UI**: Clean, Material Design 3 interface
-- 🌙 **Dark Theme**: Easy on the eyes
+- **Persistent Settings**: Remembers your folder selection, shuffle, and autoplay preferences
+- **Modern UI**: Clean, Material Design 3 interface
+- **Dark Theme**: Easy on the eyes
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="Screenshots/Screenshot_20251215_113152.jpg" alt="App Home Screen" width="250"/>
   <img src="Screenshots/Screenshot_20251215_113215.jpg" alt="Video Player" width="250"/>
 </p>
 
-*Privacy-focused video player with folder selection and playback controls*
+_Privacy-focused video player with folder selection and playback controls_
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### For Users
 
@@ -53,11 +53,12 @@ Unlike traditional video players that require complete storage access (potential
 2. Install the app on your Android device
 3. Open the app and tap "Select Folder"
 4. Choose the folder containing your videos
-5. Enjoy your videos with privacy and security! 🎉
+5. Enjoy your videos with privacy and security!
 
 ### For Developers
 
 **Prerequisites:**
+
 - Flutter SDK (3.0 or higher)
 - Android SDK (API level 21+)
 - Android Studio or VS Code
@@ -80,7 +81,7 @@ flutter run
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Android**: 5.0 (API level 21) or higher
 - **Flutter**: 3.0 or higher
@@ -88,7 +89,7 @@ flutter run
 
 ---
 
-## 🔐 Permissions
+## Permissions
 
 The app uses minimal permissions:
 
@@ -99,7 +100,7 @@ The app uses minimal permissions:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Flutter](https://flutter.dev/) - UI framework
 - [video_player](https://pub.dev/packages/video_player) - Video playback
@@ -109,7 +110,7 @@ The app uses minimal permissions:
 
 ---
 
-## 📝 Supported Video Formats
+## Supported Video Formats
 
 - MP4, MKV, AVI
 - MOV, WMV, FLV
@@ -118,7 +119,7 @@ The app uses minimal permissions:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 
@@ -130,13 +131,13 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Anik Kazi**
 
@@ -144,16 +145,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ⭐ Support
+## Support
 
-If you find this app useful, please consider giving it a star ⭐ on GitHub!
+If you find this app useful, please consider giving it a star on GitHub!
 
 ---
 
-## 📞 Contact & Issues
+## Contact & Issues
 
 Found a bug or have a feature request? Please open an [issue](https://github.com/AnikKazi-dev/PickFolder-Video-Player-Android-/issues).
 
 ---
 
-**Made with ❤️ and Flutter**
+**Made with Flutter**
