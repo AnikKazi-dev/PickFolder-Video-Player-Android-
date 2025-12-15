@@ -2,10 +2,6 @@
 
 A privacy-focused Flutter video player app for Android with **specific folder selection** - the most secure way to manage your video library!
 
-<p align="center">
-  <img src="screenshots/app_icon.png" alt="PickFolder Player" width="120"/>
-</p>
-
 ## 🔒 Why PickFolder Player?
 
 **Most video players force you to grant access to ALL your files and folders!**
@@ -40,11 +36,12 @@ Unlike traditional video players that require complete storage access (potential
 
 ## 📸 Screenshots
 
-| Home Screen | Folder Selection | Video Player | Controls |
-|-------------|------------------|--------------|----------|
-| ![Home](screenshots/home.png) | ![Folder](screenshots/folder_selection.png) | ![Player](screenshots/video_player.png) | ![Controls](screenshots/controls.png) |
+<p align="center">
+  <img src="Screenshots/Screenshot_20251215_113152.jpg" alt="App Home Screen" width="250"/>
+  <img src="Screenshots/Screenshot_20251215_113215.jpg" alt="Video Player" width="250"/>
+</p>
 
-*Screenshots showing the app's interface and features*
+*Privacy-focused video player with folder selection and playback controls*
 
 ---
 
